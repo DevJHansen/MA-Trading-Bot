@@ -14,7 +14,7 @@
     "bitmex": "0.0.6",
     "bitmex-node": "^1.7.0",
     "cryptocompare": "^1.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "node-fetch": "^2.3.0",
     "qs": "^6.6.0",
     "request": "^2.88.0",
