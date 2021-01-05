@@ -9,7 +9,7 @@
   "author": "Justin Hansen",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bit_mex_api": "^1.2.1",
     "bitmex": "0.0.6",
     "bitmex-node": "^1.7.0",
